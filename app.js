@@ -127,7 +127,7 @@ function oWin() {
 
 function equal() {
     start = true
-    h1.textContent = "Equal"
+    h1.textContent = "Draw"
     X.length = 0
     O.length = 0
 
